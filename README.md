@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I'm a Software Engineer and Computer Science Student at RTU MIREA. Passionate about software architecture, high-performance distributed systems, algorithms, and full-stack development!
+<p align="left">I'm a Software Engineering student at the Institute of Information Technologies (IIT), RTU MIREA. Passionate about software architecture, high-performance distributed systems, algorithms, and full-stack development!
 
 My professional focus includes building reliable backend services, experimenting with low-level systems in Go and Rust, crafting modern reactive web applications, and exploring machine learning pipelines.
 
-Always open to collaboration on open-source initiatives and ambitious engineering projects!<br><br>- 🚀 Full-Stack & Systems Developer;<br>- ⚡ High-performance backend engineering (Go, Rust, Python);<br>- 🌐 Modern Web Applications (TypeScript, React, Next.js, Vue, Vite);<br>- 🎓 Computer Science & Software Engineering Student at RTU MIREA.</p>
+Always open to collaboration on open-source initiatives and ambitious engineering projects!<br><br>- 🚀 Full-Stack & Systems Developer;<br>- ⚡ High-performance backend engineering (Go, Rust, Python);<br>- 🌐 Modern Web Applications (TypeScript, React, Next.js, Vue, Vite);<br>- 🎓 Software Engineering Student at IIT, RTU MIREA.</p>
 
 <hr></hr>
 
